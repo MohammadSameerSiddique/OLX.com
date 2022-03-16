@@ -1,0 +1,14 @@
+.a:hover{
+   color: blueviolet;
+   cursor: pointer;
+}
+.b:hover{
+    color: blueviolet;
+    cursor: pointer;
+ }
+.am{
+   background-image: url(./images/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg);
+   background-repeat: no-repeat;
+}
+
+
