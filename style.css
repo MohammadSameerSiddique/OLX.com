@@ -5,10 +5,50 @@
 .b:hover{
     color: blueviolet;
     cursor: pointer;
- }
+}
+.main{
+   margin: 0px 80px;
+   margin-top: 50px;
+}
 .am{
    background-image: url(./images/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg);
    background-repeat: no-repeat;
 }
+.bg{
+   background-color: #F7F8F9;
+   background-image: url(./images/olxMobileApp.f5579f77e849b600ad60857e46165516.webp);
+   background-repeat: no-repeat;
+   display: flex;
+   justify-content: center;
+   justify-content: space-around;
+   padding: 50px;
+   border-bottom: 1px solid gray;
+}
+.text{
+   border-right: 2px solid gray;
+   padding-right: 30px;
+   margin-left: 30%; 
+}
+.head{
+   background-color: #EBEEEF;
+}
+li{
+   list-style: none;
+   font-size: smaller;
+   margin-bottom: 5px;
+}
+.copy{
+   background-color: #002F34;
+   font-size: small;
+}
+.tex{
+   display: flex;
+   padding-top: 20px;
+   padding-right: 20px;
+}
+
+
+
+
 
 
